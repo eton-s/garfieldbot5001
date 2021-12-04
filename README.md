@@ -10,4 +10,4 @@ You can also choose to automate this using Windows Task Scheduler:
 1. Clone both files in the repo to a local directory
 2. Create a task in Task Scheduler
 3. Add desired triggers (time interval, on startup, etc.)
-4. Add an action that runs garfieldbot5001.bat
+4. Add an action that runs garfieldbot5001.bat, and ensure that the 'Start in' field is the directory containing the files.
